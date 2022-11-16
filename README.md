@@ -39,4 +39,4 @@ I'm Gönül, a visiting PhD researcher and creative coder! I get very excited wh
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
-
+![](https://img.shields.io/badge/Tools-LateX-informational?style=flat&logo=LaTeX&logoColor=white&color=4AB197)
