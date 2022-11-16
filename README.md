@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-I'm Gönül, a visiting PhD researcher and creative coder! I get very excited when I do a research and develop algorithms within domains that are close to my heart, namely Privacy, Machine Learning, Artificial Intelligence, and Natural Language Processing. I'm a fan of cycling and running. 
+I'm Gönül, a visiting PhD researcher and creative coder! I get very excited when I do a research and develop algorithms within domains that are close to my heart, namely Privacy, Machine Learning, Artificial Intelligence, and Natural Language Processing. I'm a big fan of techno music, cycling and running. 
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/gonul_ayci)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/gonul-ayci/)
