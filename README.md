@@ -41,4 +41,8 @@ I'm Gönül, a visiting PhD researcher and creative coder! I get very excited wh
 </a>
 
 <br>
+<a href="https://github.com/aycignl/Traveling_Salesman_Problem_with_Profits">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=aycignl&repo=Traveling_Salesman_Problem_with_Profits&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
 <br>
