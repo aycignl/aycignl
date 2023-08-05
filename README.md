@@ -1,7 +1,6 @@
 ### Hey there 👋
 
-I'm Gönül, Data Scientist, PhD researcher and creative coder! I get very excited when I do a research and develop algorithms within domains that are close to my heart, namely Privacy, Machine Learning, Artificial Intelligence, and Natural Language Processing. I'm a big fan of techno music, cycling and running. 
-
+I'm Gönül, Data Scientist, Ph.D. researcher, creative coder, and runner! I get very excited when I do research and develop algorithms within domains that are close to my heart, namely Privacy, Machine Learning, Artificial Intelligence, and Finance. 
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-Profile-informational?style=flat&logo=leetcode&logoColor=white&color=1CA2F1)](https://leetcode.com/gonul_ayci/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/gonul-ayci/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/gonul_ayci)
@@ -25,6 +24,18 @@ I'm Gönül, Data Scientist, PhD researcher and creative coder! I get very excit
 
 <br>
 
+<a href="https://github.com/aycignl/peak">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=aycignl&repo=peak&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+
+<a href="https://github.com/aycignl/pure">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=aycignl&repo=pure&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+
 <a href="https://github.com/aycignl/Probabilistic_Topic_Modeling">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=aycignl&repo=Probabilistic_Topic_Modeling&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
@@ -32,11 +43,6 @@ I'm Gönül, Data Scientist, PhD researcher and creative coder! I get very excit
 <br>
 <a href="https://github.com/aycignl/leetcode">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=aycignl&repo=leetcode&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-<a href="https://github.com/aycignl/Artificial_Neural_Networks">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=aycignl&repo=Artificial_Neural_Networks&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
